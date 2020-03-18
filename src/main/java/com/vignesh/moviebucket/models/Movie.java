@@ -58,6 +58,9 @@ public class Movie {
         this.rating = rating;
     }
 
+    public Movie() {
+    }
+
     public String getId() {
         return id;
     }

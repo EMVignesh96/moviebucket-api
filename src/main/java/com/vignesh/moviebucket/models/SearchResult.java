@@ -34,6 +34,9 @@ public class SearchResult {
         this.posterUrl = posterUrl;
     }
 
+    public SearchResult() {
+    }
+
     public String getId() {
         return id;
     }
